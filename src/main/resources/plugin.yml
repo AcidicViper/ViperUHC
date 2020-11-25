@@ -1,0 +1,11 @@
+name: ViperUHC
+version: ${project.version}
+main: me.acidviper.viperuhc.ViperUHC
+authors: [AcidViper]
+description: A uhc core developed by AcidViper
+depend: [WorldBorder]
+commands:
+  scatter:
+  generate:
+  editconfig:
+  uhc:
